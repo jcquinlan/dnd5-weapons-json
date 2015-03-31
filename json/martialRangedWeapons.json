@@ -1,0 +1,135 @@
+[
+	{
+        "Name": "Atlatl",
+        "Cost": "5 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "1 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (50-100)",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Blowgun",
+        "Cost": "10 gp",
+        "Damage": "1 piercing",
+        "Weight": "1 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (25/100)",
+        	"Loading"
+        ]
+    },	
+    {
+        "Name": "Bolas",
+        "Cost": "1 gp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "2 lb",
+        "Properties": [
+        	"Special",
+        	"Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Boomerang",
+        "Cost": "2 gp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "1 lb",
+        "Properties": [
+        	"Special",
+        	"Thrown (20/60)"
+        ]
+    },			
+    {
+        "Name": "Chakram",
+        "Cost": "5 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "0.5 lb",
+        "Properties": [
+        	"Finesse",
+        	"Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Chatkcha",
+        "Cost": "1 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "2 lb",
+        "Properties": [
+        	"Finesse",
+        	"Light",
+        	"Thrown (30/120)",
+        	"Special"
+        ]
+    },	
+    {
+        "Name": "Crossbow, Hand",
+        "Cost": "75 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (30/120)",
+        	"Light",
+        	"Loading"
+        ]
+    },	
+    {
+        "Name": "Crossbow, Heavy",
+        "Cost": "50 gp",
+        "Damage": "1d10 piercing",
+        "Weight": "18 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (100/400)",
+        	"Heavy",
+        	"Loading",
+        	"Two-Handed"
+        ]
+    },	
+    {
+        "Name": "Crossbow, Repeating",
+        "Cost": "250 gp",
+        "Damage": "2d4 piercing",
+        "Weight": "18 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (80/320)",
+        	"Heavy",
+        	"Two-Handed"
+        ]
+    },	
+    {
+        "Name": "Longbow",
+        "Cost": "50 gp",
+        "Damage": "1d8 piercing",
+        "Weight": "2 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (150/600)",
+        	"Heavy",
+        	"Two-Handed"
+        ]
+    },	
+    {
+        "Name": "Net",
+        "Cost": "1 gp",
+        "Damage": "",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Special",
+        	"Range (5/15)",
+        	"Thrown"
+        ]
+    },	
+    {
+        "Name": "Throwing Hammer",
+        "Cost": "15 gp",
+        "Damage": "1d6 bludgeoning",
+        "Weight": "4 lb",
+        "Properties": [
+        	"Thrown (60/120)"
+        ]
+    }		
+]
