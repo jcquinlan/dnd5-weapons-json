@@ -1,0 +1,347 @@
+[
+    {
+        "Name": "Barbed Dagger",
+        "Cost": "10 gp",
+        "Damage": "2d4 piercing",
+        "Weight": "1 lb",
+        "Properties": [
+        	"Light", 
+        	"Finesse", 
+        	"Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Brandistock",
+        "Cost": "10 gp",
+        "Damage": "1d8 piercing",
+        "Weight": "4 lb",
+        "Properties": [
+            "Special",
+            "Two-handed"
+        ]
+    },
+    {
+        "Name": "Broken Sword",
+        "Cost": "5 sp",
+        "Damage": "1d4 piercing",
+        "Weight": "1 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Cestus",
+        "Cost": "5 sp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "0.5 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Club",
+        "Cost": "1 sp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light"
+        ]
+    },
+    {
+        "Name": "Dagger",
+        "Cost": "2 gp",
+        "Damage": "1d4 piercing",
+        "Weight": "1 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse",
+        	"Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Double Spear",
+        "Cost": "5 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "4 lb",
+        "Properties": [ 
+        	"Versatile (1d8)", 
+        	"Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Eye Sickle",
+        "Cost": "10 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "4 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+	{
+        "Name": "Falx",
+        "Cost": "8 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "3 lb",
+        "Properties": [ 
+        	"Versatile (1d8)"
+        ]
+    },
+    {
+        "Name": "Fauchard",
+        "Cost": "10 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "7 lb",
+        "Properties": [ 
+        	"Heavy", 
+        	"reach",
+        	"Two-handed"
+        ]
+    },
+    {
+        "Name": "Flamberge",
+        "Cost": "15 gp",
+        "Damage": "1d8 slashing + 1d2 (ripping)",
+        "Weight": "6 lb",
+        "Properties": [ 
+        	"Ripping", 
+        	"Two-handed"
+        ]
+    },
+    {
+        "Name": "Gavel",
+        "Cost": "5 sp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "0.5 lb",
+        "Properties": [ 
+        	"Undersized"
+        ]
+    },
+    {
+        "Name": "Greatclub",
+        "Cost": "2 sp",
+        "Damage": "1d8 bludgeoning",
+        "Weight": "10 lb",
+        "Properties": [ 
+        	"Two-handed"
+        ]
+    },
+    {
+        "Name": "Greatspear",
+        "Cost": "25 gp",
+        "Damage": "1d10 piercing",
+        "Weight": "8 lb",
+        "Properties": [ 
+        	"Oversized",
+        	"Thrown (20/60)", 
+        	"Two-handed"
+        ]
+    },
+    {
+        "Name": "Handaxe",
+        "Cost": "5 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Thrown (20/60)" 
+        ]
+    },
+    {
+        "Name": "Iron Claws",
+        "Cost": "5 gp",
+        "Damage": "1d4 piercing",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Javelin",
+        "Cost": "5 sp",
+        "Damage": "1d6 piercing",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Thrown (30/120)"
+        ]
+    },
+    {
+        "Name": "Karambit",
+        "Cost": "4 gp",
+        "Damage": "1d4 slashing",
+        "Weight": "1 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Katar",
+        "Cost": "5 gp",
+        "Damage": "1d4 piercing",
+        "Weight": "1 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Knife",
+        "Cost": "2 sp",
+        "Damage": "1d3 slashing",
+        "Weight": "0.25 lb",
+        "Properties": [ 
+        	"Undersized", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Knuckleduster",
+        "Cost": "3 sp",
+        "Damage": "Unarmed Damage + 1",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Ko",
+        "Cost": "1 gp",
+        "Damage": "1d4 piercing / bludgeoning",
+        "Weight": "1 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Kukri",
+        "Cost": "6 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Light Hammer",
+        "Cost": "2 gp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light",
+        	"Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Mace",
+        "Cost": "5 gp",
+        "Damage": "1d6 bludgeoning",
+        "Weight": "2 lb",
+        "Properties": []
+    },
+    {
+        "Name": "Needle",
+        "Cost": "2 sp",
+        "Damage": "1d4 piercing",
+        "Weight": "0.25 lb",
+        "Properties": [ 
+        	"Undersized", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Quarterstaff",
+        "Cost": "2 sp",
+        "Damage": "1d6 bludgeoning",
+        "Weight": "4 lb",
+        "Properties": [ 
+        	"Versatile (1d8)"
+        ]
+    },
+    {
+        "Name": "Sap",
+        "Cost": "1 gp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Scythe",
+        "Cost": "5 gp",
+        "Damage": "2d4 slashing",
+        "Weight": "5 lb",
+        "Properties": [ 
+        	"Heavy", 
+        	"Two-handed"
+        ]
+    },
+    {
+        "Name": "Sickle",
+        "Cost": "1 gp",
+        "Damage": "1d4 slashing",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Light"
+        ]
+    },
+    {
+        "Name": "Spade",
+        "Cost": "2 gp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "4 lb",
+        "Properties": [ 
+        	"Versatile" 
+        ]
+    },
+    {
+        "Name": "Spear",
+        "Cost": "1 gp",
+        "Damage": "1d4 slashing",
+        "Weight": "3 lb",
+        "Properties": [ 
+        	"Thrown (20/60)",
+        	"Versatile (1d8)"
+        ]
+    },
+    {
+        "Name": "Torch Mace",
+        "Cost": "6 gp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "2 lb",
+        "Properties": [ 
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Torch Staff",
+        "Cost": "12 gp",
+        "Damage": "2d4 bludgeoning",
+        "Weight": "7 lb",
+        "Properties": [ 
+        	"Heavy", 
+        	"Two-handed",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Zerka",
+        "Cost": "10 sp",
+        "Damage": "1d8 piercing",
+        "Weight": "3 lb",
+        "Properties": [ 
+        	"Special", 
+        	"Finesse",
+        	"Thrown (40/160)"
+        ]
+    }
+]
