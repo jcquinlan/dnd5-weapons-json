@@ -1,0 +1,51 @@
+[
+	{
+        "Name": "Blunderbuss",
+        "Cost": "250 gp",
+        "Damage": "2d6 piercing",
+        "Weight": "5 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (20/60)",
+        	"Loading",
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Dragon",
+        "Cost": "200 gp",
+        "Damage": "1d4 piercing",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (20/60)",
+        	"Loading"
+        ]
+    },
+    {
+        "Name": "Pistol Sword",
+        "Cost": "275 gp",
+        "Damage": "1d6",
+        "Weight": "5 lb",
+        "Properties": []
+    },
+    {
+        "Name": "Small Pistol",
+        "Cost": "150 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "5 lb",
+        "Properties": [
+        	"Ammunition",
+        	"Range (20/160)",
+        	"Loading",
+        	"Light"
+        ]
+    },
+    {
+        "Name": "Shot (20) (Ammunition)",
+        "Cost": "6 gp",
+        "Damage": "",
+        "Weight": "4 lb",
+        "Properties": []
+    },
+]
