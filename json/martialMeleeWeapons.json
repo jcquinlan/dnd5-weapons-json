@@ -1,0 +1,463 @@
+[
+	{
+        "Name": "Arming Sword",
+        "Cost": "20 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Light", 
+        	"Finesse", 
+        	"Versatile (1d8)"
+        ]
+    },
+    {
+        "Name": "Back Sword",
+        "Cost": "10 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "3 lb",
+        "Properties": []
+    },
+    {
+        "Name": "Battleaxe",
+        "Cost": "10 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "4 lb",
+        "Properties": [
+        	"Versatile (1d10)"
+        ]
+    },
+    {
+        "Name": "Bec de Corbin",
+        "Cost": "20 gp",
+        "Damage": "2d4 piercing",
+        "Weight": "6 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Reach", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Boar Spear",
+        "Cost": "10 gp",
+        "Damage": "2d6 piercing",
+        "Weight": "5 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Broadsword",
+        "Cost": "20 gp",
+        "Damage": "2d4 piercing",
+        "Weight": "3 lb",
+        "Properties": []
+    },
+    {
+        "Name": "Buster Sword",
+        "Cost": "250 gp",
+        "Damage": "2d8 slashing",
+        "Weight": "12 lb",
+        "Properties": [
+        	"Oversized", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Chaind, Bladed",
+        "Cost": "8 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "10 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Finesse",
+        	"Reach", 
+        	"Special",
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Chaind, Spiked",
+        "Cost": "8 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "10 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Finesse",
+        	"Reach", 
+        	"Special",
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Chaind, Weighted",
+        "Cost": "8 gp",
+        "Damage": "1d6 bludgeoning",
+        "Weight": "10 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Finesse",
+        	"Reach", 
+        	"Special",
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Cutlass",
+        "Cost": "10 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "2 lb",
+        "Properties": [
+        	"Light"
+        ]
+    },
+    {
+        "Name": "Double Axe",
+        "Cost": "30 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "10 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Two-Handed",
+        	"Double Weapon"
+        ]
+    },
+    {
+        "Name": "Double Flail",
+        "Cost": "20 gp",
+        "Damage": "1d8 bludgeoning",
+        "Weight": "4 lb",
+        "Properties": [ 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Double Sword",
+        "Cost": "20 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "5 lb",
+        "Properties": [
+        	"Double Weapon", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Dueling Shield",
+        "Cost": "15 gp",
+        "Damage": "1d8 bludgeoning",
+        "Weight": "10 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Special",
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Dwarven Ugrosh",
+        "Cost": "50 gp",
+        "Damage": "1d10 slashing",
+        "Weight": "9 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Elven Lightblade",
+        "Cost": "50 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "1 lb",
+        "Properties": [
+        	"Finesse", 
+        	"Light",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Elven Thinblade",
+        "Cost": "100 gp",
+        "Damage": "1d8 piercing",
+        "Weight": "1 lb",
+        "Properties": [
+        	"Finesse", 
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Epee",
+        "Cost": "50 gp",
+        "Damage": "1d2 piercing",
+        "Weight": "1 lb",
+        "Properties": [
+        	"Special", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Estoc",
+        "Cost": "25 gp",
+        "Damage": "1d8 piercing",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Versatile (1d10)"
+        ]
+    },
+    {
+        "Name": "Faeblades",
+        "Cost": "50 gp",
+        "Damage": "2d4 slashing",
+        "Weight": "2.5 lb",
+        "Properties": [
+        	"Light", 
+        	"Finesse",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Falchion",
+        "Cost": "10 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "3 lb",
+        "Properties": []
+    },
+    {
+        "Name": "Great Maul",
+        "Cost": "150 gp",
+        "Damage": "3d6 bludgeoning",
+        "Weight": "145 lb",
+        "Properties": [
+        	"Oversized", 
+        	"Two-Handed",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Guisarme",
+        "Cost": "15 gp",
+        "Damage": "2d4 slashing",
+        "Weight": "6 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Reach",
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Gythka",
+        "Cost": "20 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "9 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Heavy Flail",
+        "Cost": "20 gp",
+        "Damage": "1d12 bludgeoning",
+        "Weight": "7 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Hidden Blade",
+        "Cost": "100 gp",
+        "Damage": "1d4 piercing",
+        "Weight": "0.5 lb",
+        "Properties": [
+        	"Light", 
+        	"Finesse",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Katana",
+        "Cost": "50 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Versatile (1d10)"
+        ]
+    },
+    {
+        "Name": "Lajav",
+        "Cost": "30 gp",
+        "Damage": "1d8 bludgeoning",
+        "Weight": "5 lb",
+        "Properties": [
+        	"Finesse",
+        	"Heavy", 
+        	"Two-Handed",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Longspear",
+        "Cost": "3 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "4 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Reach",
+        	"Versatile (1d8)"
+        ]
+    },
+    {
+        "Name": "Longstaff",
+        "Cost": "5 sp",
+        "Damage": "1d8 bludgeoning",
+        "Weight": "7 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Reach",
+        	"Special",
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Main Gauche",
+        "Cost": "5 gp",
+        "Damage": "1d4 piercing",
+        "Weight": "1 lb",
+        "Properties": [
+            "Finesse",
+            "Light",
+            "Special",
+            "Thrown (20/60)"
+        ]
+    },
+    {
+        "Name": "Man Catcher",
+        "Cost": "25 gp",
+        "Damage": "1d4 bludgeoning",
+        "Weight": "2 lb",
+        "Properties": [
+        	"Reach", 
+        	"Two-Handed",
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Meteor Hammer",
+        "Cost": "30 gp",
+        "Damage": "1d6 bludgeoning",
+        "Weight": "5 lb",
+        "Properties": [
+        	"Special", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Monk's Spade",
+        "Cost": "10 gp",
+        "Damage": "1d6 slashing",
+        "Weight": "4 lb",
+        "Properties": [
+        	"Reach", 
+        	"Versatile (1d8)"
+        ]
+    },
+    {
+        "Name": "Parrying Dagger",
+        "Cost": "5 gp",
+        "Damage": "1d4 piercing",
+        "Weight": "2 lb",
+        "Properties": [
+        	"Light", 
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Pollaxe",
+        "Cost": "20 gp",
+        "Damage": "2d4 bludgeoning",
+        "Weight": "6 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Reach",
+        	"Two-Handed"        	
+        ]
+    },
+    {
+        "Name": "Saber",
+        "Cost": "35 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Side Sword",
+        "Cost": "25 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "2.5 lb",
+        "Properties": [
+        	"Light", 
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Small Sword",
+        "Cost": "10 gp",
+        "Damage": "1d6 piercing",
+        "Weight": "1.5 lb",
+        "Properties": [
+        	"Light", 
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Sword Breaker",
+        "Cost": "15 gp",
+        "Damage": "1d4 slashing",
+        "Weight": "2 lb",
+        "Properties": [
+        	"Light", 
+        	"Special"
+        ]
+    },
+    {
+        "Name": "Talwar",
+        "Cost": "30 gp",
+        "Damage": "1d8 slashing",
+        "Weight": "3 lb",
+        "Properties": [
+        	"Finesse"
+        ]
+    },
+    {
+        "Name": "Two-Handed Morningstar",
+        "Cost": "25 gp",
+        "Damage": "1d12 piercing",
+        "Weight": "10 lb",
+        "Properties": [
+        	"Heavy", 
+        	"Two-Handed"
+        ]
+    },
+    {
+        "Name": "Warcleaver",
+        "Cost": "25 gp",
+        "Damage": "1d8 slashing/bludgeoning",
+        "Weight": "5 lb",
+        "Properties": []
+    },
+    {
+        "Name": "Zweihänder",
+        "Cost": "100 gp",
+        "Damage": "2d8 slashing",
+        "Weight": "9 lb",
+        "Properties": [
+        	"Heavy",
+        	"Reach",
+        	"Special", 
+        	"Two-Handed"
+        ]
+    }
+]
